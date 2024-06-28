@@ -7,6 +7,7 @@ Email: igapanchuk@gmail.com
 GitHub: Iryna2018
 About Me
 I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills.
+I'd like lerning.
 Skills
 HTML
 CSS/SASS
